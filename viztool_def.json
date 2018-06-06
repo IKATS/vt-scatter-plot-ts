@@ -1,0 +1,7 @@
+{
+    "name": "ScatterPlot",
+    "types": ["ts_list", "tsuid_list"],
+    "classRef": ScatterPlot,
+    "keyMap": {},
+    "desc": "Display TS1 vs TS2 (scatterplot or X/Y) for 2 TS"
+}
